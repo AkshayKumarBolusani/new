@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Tools/static/css/main.f26a78cd.css",
-    "main.js": "/React-Tools/static/js/main.8cec9588.js",
-    "static/js/453.eb466fcb.chunk.js": "/React-Tools/static/js/453.eb466fcb.chunk.js",
-    "static/media/bg.jpg": "/React-Tools/static/media/bg.0f468c090a91398e566d.jpg",
-    "static/media/trees.png": "/React-Tools/static/media/trees.a5a4ffa521363d11d0a6.png",
-    "static/media/girl.png": "/React-Tools/static/media/girl.74b586869ae460575620.png",
-    "index.html": "/React-Tools/index.html",
-    "main.f26a78cd.css.map": "/React-Tools/static/css/main.f26a78cd.css.map",
-    "main.8cec9588.js.map": "/React-Tools/static/js/main.8cec9588.js.map",
-    "453.eb466fcb.chunk.js.map": "/React-Tools/static/js/453.eb466fcb.chunk.js.map"
+    "main.css": "/new/static/css/main.f26a78cd.css",
+    "main.js": "/new/static/js/main.1890a2a7.js",
+    "static/js/453.eb466fcb.chunk.js": "/new/static/js/453.eb466fcb.chunk.js",
+    "static/media/bg.jpg": "/new/static/media/bg.0f468c090a91398e566d.jpg",
+    "static/media/trees.png": "/new/static/media/trees.a5a4ffa521363d11d0a6.png",
+    "static/media/girl.png": "/new/static/media/girl.74b586869ae460575620.png",
+    "index.html": "/new/index.html",
+    "main.f26a78cd.css.map": "/new/static/css/main.f26a78cd.css.map",
+    "main.1890a2a7.js.map": "/new/static/js/main.1890a2a7.js.map",
+    "453.eb466fcb.chunk.js.map": "/new/static/js/453.eb466fcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f26a78cd.css",
-    "static/js/main.8cec9588.js"
+    "static/js/main.1890a2a7.js"
   ]
 }
